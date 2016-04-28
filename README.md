@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/slavaroi/game.svg?branch=master)](https://travis-ci.org/slavaroi/game)
 
+
 To play execute following commands : 
 
 1. npm install 
