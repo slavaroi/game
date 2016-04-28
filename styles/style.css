@@ -1,0 +1,19 @@
+.icon {
+ max-width: 100%;
+}
+.btn{
+ transition-duration: 0.5s;
+ transition-property: box-shadow, transform;
+ position:relative;
+}
+.btn:hover{
+ transform: scale(1.1);
+}
+
+.btn.active {
+ transform: scale(2);
+ z-index:1;
+}
+.btn.active img{
+
+}
