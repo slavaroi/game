@@ -4,7 +4,7 @@ To play execute following commands :
 
 1. npm install 
 2. node myserver.js 
-3. Open in browser localhost:5000 (https://gameslavaroi.herokuapp.com/) using different devices/browsers users 
+3. Open in browser localhost:5000 (https://slavagame.herokuapp.com/) using different devices/browsers users 
 4. For one of users mark checkbox - it will make the user to be a master user.
 
 
