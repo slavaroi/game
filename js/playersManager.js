@@ -7,7 +7,7 @@ function PlayersManager() {
         players[playerId] = document.createElement('audio');
         players[playerId].setAttribute('src', audioSrc);
     };
-    
+
     this.play = function (playerID) {
         for (var id in players) {
             if (playerID !== id) {

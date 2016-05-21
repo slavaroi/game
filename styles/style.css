@@ -1,3 +1,20 @@
+.number{
+    height:143px;
+    width:93px;
+    /*background-image: url('../media/img/colored-numbers.jpg');*/
+    background-image: url('../media/img/numbers.png');
+}
+.one{
+    background-position: -120px 0;
+}
+.two{
+    background-position: -240px 0;
+}
+.three{
+    background-position: -375px 0;
+}
+
+
 
 .icon {
  max-width: 100%;

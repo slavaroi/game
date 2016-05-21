@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "my first socket.io app",
   "scripts": {
-		"start": "node myserver.js"
-   },
+    "start": "node myserver.js"
+  },
   "main": "myserver.js",
   "dependencies": {
     "express": "^4.10.2",
@@ -12,5 +12,9 @@
   },
   "engines": {
     "node": "0.12.7"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
   }
 }
